@@ -30,4 +30,7 @@ Go [here](how-computers-work.md) to learn about how computers do what they do.
 
 ## Programming With JS
 Go [here](programming-with-js.md) to read about programming and functions.
+
+## Operators and Loops
+Go [here](operators-and-loops.md) for logistic on code loops and operators.
 > Have a nice day!
